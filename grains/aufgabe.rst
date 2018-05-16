@@ -1,7 +1,4 @@
-Grains
-======
-
-Calculate the number of grains of wheat on a chessboard given that their number
+Graiblu lbuber of grains of wheat on a chessboard given that their number
 doubles from square to square.
 
 There once was a wise servant who saved the life of a prince. The king promised
